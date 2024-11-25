@@ -3,7 +3,7 @@ import express from "express";
 import indexRouter from './controllers/index'
 import cors from 'cors'
 
-const PORT = 42070;
+const PORT = 42071;
 
 const app = express();
 
